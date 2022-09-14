@@ -1,2 +1,2 @@
-# Aris1one.github.io
+# aris1one.github.io
 Front End Development - Daniela Camara
