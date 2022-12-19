@@ -1,0 +1,90 @@
+/* Add your custom CSS here */
+
+
+header.theme-dark .container-btn a.btn:nth-child(1):focus,
+header.theme-dark .container-btn a.btn:nth-child(1):hover,
+header.theme-dark .container-btn a.btn:nth-child(1):active { background-color: var(--red-700) }
+
+header.theme-dark .container-btn a.btn:nth-child(1):focus,
+header.theme-dark .container-btn a.btn:nth-child(1):hover,
+header.theme-dark .container-btn a.btn:nth-child(1):active { border-color: var(--red-700) }
+
+header.theme-dark .container-btn a.btn:nth-child(2):focus,
+header.theme-dark .container-btn a.btn:nth-child(2):hover,
+header.theme-dark .container-btn a.btn:nth-child(2):active { background-color: var(--red-700) }
+
+header.theme-dark .container-btn a.btn:nth-child(2):focus,
+header.theme-dark .container-btn a.btn:nth-child(2):hover,
+header.theme-dark .container-btn a.btn:nth-child(2):active { border-color: var(--red-700) }
+
+nav.theme-dark ul.links-wrapper li a:focus,
+nav.theme-dark ul.links-wrapper li a:hover,
+nav.theme-dark ul.links-wrapper li a:active { color: var(--red-700) }
+nav.theme-dark a#btn-cta:focus,
+nav.theme-dark a#btn-cta:hover,
+nav.theme-dark a#btn-cta:active { border-color: var(--red-700) }
+nav.theme-dark a#btn-cta:focus,
+nav.theme-dark a#btn-cta:hover,
+nav.theme-dark a#btn-cta:active { border-color: var(--red-700) }
+nav.theme-dark a#btn-cta:focus,
+nav.theme-dark a#btn-cta:hover,
+nav.theme-dark a#btn-cta:active { background-color: var(--red-700) }
+nav.theme-dark a#btn-cta:focus,
+nav.theme-dark a#btn-cta:hover,
+nav.theme-dark a#btn-cta:active { color: var(--white-000) }
+
+/* sections*/
+
+.section-selector-1 a.btn:focus,
+.section-selector-1 a.btn:hover,
+.section-selector-1 a.btn:active { background-color: var(--red-700) }
+
+.section-selector-1 .flex-cols-3 .col-3 a.col-3-h3:link,
+.section-selector-1 .flex-cols-3 .col-3 a.col-3-h3:visited { color: var(--black-000) }
+.section-selector-1 div[class^='col-'] a[class^='col-']:link, .section-selector-1 div[class^='col-'] a[class^='col-']:visited { text-decoration-color: var(--black-000) }
+.section-selector-1 .flex-cols-3 .col-3 a.col-3-h3:focus,
+.section-selector-1 .flex-cols-3 .col-3 a.col-3-h3:hover,
+.section-selector-1 .flex-cols-3 .col-3 a.col-3-h3:active { color: var(--red-700) }
+.section-selector-1 div[class^='col-'] a[class^='col-']:focus, .section-selector-1 div[class^='col-'] a[class^='col-']:hover, .section-selector-1 div[class^='col-'] a[class^='col-']:active { text-decoration-color: var(--red-700) }
+.section-selector-1 div[class^='flex-cols-'] div[class^='col-'] { background-color: var(--white-000) }
+.section-selector-1 div[class^='flex-cols-'] div[class^='col-'] p { color: var(--black-000) }
+.section-selector-1 div[class^='flex-cols-'] div[class^='col-'] li { color: var(--black-000) }
+.section-selector-1 a.btn:link,
+.section-selector-1 a.btn:visited { border-color: var(--black-000) }
+
+.section-selector-1 a.btn:link,
+.section-selector-1 a.btn:visited { color: var(--black-000) }
+
+.section-selector-1 a.btn:focus,
+.section-selector-1 a.btn:hover,
+.section-selector-1 a.btn:active { color: var(--white-000) }
+
+.section-selector-1 a.btn:focus,
+.section-selector-1 a.btn:hover,
+.section-selector-1 a.btn:active { border-color: var(--white-000) }
+
+
+/*Portfolio*/
+/* Add your custom CSS here */
+nav.theme-dark a#btn-cta:focus,
+nav.theme-dark a#btn-cta:hover,
+nav.theme-dark a#btn-cta:active { border-color: var(--red-700) }
+nav.theme-dark a#btn-cta:link,
+nav.theme-dark a#btn-cta:visited { color: var(--white-000) }
+nav.theme-dark a#btn-cta:focus,
+nav.theme-dark a#btn-cta:hover,
+nav.theme-dark a#btn-cta:active { color: var(--red-700) }
+nav.theme-dark ul.links-wrapper li a:link,
+nav.theme-dark ul.links-wrapper li a:visited { color: var(--white-000) }
+nav.theme-dark ul.links-wrapper li a:focus,
+nav.theme-dark ul.links-wrapper li a:hover,
+nav.theme-dark ul.links-wrapper li a:active { color: var(--red-700) }
+
+
+.section-selector-1 a.btn:focus,
+.section-selector-1 a.btn:hover,
+.section-selector-1 a.btn:active { background-color: var(--red-700) }
+
+.section-selector-1 a.btn:focus,
+.section-selector-1 a.btn:hover,
+.section-selector-1 a.btn:active { border-color: var(--red-700) }
