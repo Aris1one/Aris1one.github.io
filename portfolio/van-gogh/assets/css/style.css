@@ -25,9 +25,13 @@ img{
 
 
 /* Web page */
-body {
+
+body { 
+    text-align: center;
+    font-family: sans-serif;
     background-color: #FFFFBD;
 }
+
 
 /* Main heading */
 h1 {
